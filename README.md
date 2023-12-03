@@ -27,7 +27,7 @@ To view the YouTube webpage clone:
 
 ## Preview
 
-[Here](https://kunalkumar2511.github.io/youtube-clone-master/) is a live preview of the YouTube webpage clone.
+[Here](https://kunalkumar2511.github.io/youtube-webpage-clone-master/) is a live preview of the YouTube webpage clone.
 
 ## Credits
 
