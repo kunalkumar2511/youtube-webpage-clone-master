@@ -1,6 +1,4 @@
-Certainly! Here's an example of what your README.md file might look like for your YouTube webpage clone:
 
----
 
 # YouTube Web Page Clone
 
@@ -33,7 +31,7 @@ To view the YouTube webpage clone:
 
 ## Credits
 
-This project was created by [Your Name] as a practice exercise for HTML and CSS.
+This project was created by Kunal Kumar as a practice exercise for HTML and CSS.
 
 ## License
 
@@ -41,4 +39,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Please make sure to replace `[Your Name]` in the Credits section with your name or the appropriate attribution. Also, if there are any additional features or information you'd like to include, feel free to modify the README to suit your project.
